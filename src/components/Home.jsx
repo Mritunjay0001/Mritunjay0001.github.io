@@ -23,7 +23,7 @@ const Home = () => {
           </h2>
           <p className="max-w-md sm:text-[18px] py-4 text-gray-500 text-[12px] text-justify">
             I am a full stack web developer with excellent knowledge of HTML,
-            CSS, JavaScript, React, NodeJS, Node, Python and other related
+            CSS, JavaScript, React, NodeJS, MongoDB, Express and other related
             technologies.
           </p>
           <div>
