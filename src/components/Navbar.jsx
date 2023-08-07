@@ -31,7 +31,7 @@ const Navbar = () => {
     }     
     <li className='px-4 py-2 font-medium text-gray-500 capitalize duration-700 shadow-xl cursor-pointer hover:shadow-orange-400 hover:rounded-lg hover:scale-105'
         >
-        <a href="/Santosh_Yadav_Resume.pdf" download onClick={()=>window.open("https://drive.google.com/file/d/1GVAG9kDQGhyNAXwZEFUIVPMSE_PJ-umW/view?usp=sharing","_blank" ) } >Resume</a>
+        <a href="/Mritunjay_kumar_Resume.pdf" download onClick={()=>window.open("https://drive.google.com/file/d/1gng3N5D87ix8ghyr3W5khY8aUvPSeuNZ/view?usp=sharing","_blank" ) } >Resume</a>
     
         </li>   
     </ul>
@@ -56,7 +56,7 @@ const Navbar = () => {
 
     <li className='px-4 py-2 my-2 text-4xl font-medium text-gray-500 capitalize duration-700 cursor-pointer hover:shadow-inner hover:shadow-orange-400 hover:rounded-lg hover:scale-105'
     >
-    <a href="/Santosh_Yadav_Resume.pdf" download={true} >Resume</a>
+    <a href="/Mritunjay_kumar_Resume.pdf" download={true}  onClick={()=>window.open("https://drive.google.com/file/d/1gng3N5D87ix8ghyr3W5khY8aUvPSeuNZ/view?usp=sharing","_blank" ) }  >Resume</a>
     </li> 
     
 

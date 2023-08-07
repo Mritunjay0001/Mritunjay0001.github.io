@@ -4,6 +4,7 @@ import textBoard from "../assets/portfolio/textBoard.png";
 import gym from "../assets/portfolio/gym.png";
 import asos from "../assets/portfolio/wearly.png";
 import messo from "../assets/portfolio/messo.png";
+import expedia from "../assets/portfolio/expedia.png";
 import reactParallax from "../assets/portfolio/reactParallax.jpg";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
@@ -55,9 +56,43 @@ import node from "../assets/node.png";
       src:messo,
       title:"Meshoo",
       demo: "https://zippy-queijadas-83ae03.netlify.app/",
-      code: "https://github.com/Mritunjay0001/Gym-App-React-",
+      code: "https://github.com/Mritunjay0001/Messho",
       desc:
       "Meesho is the best place to find fashionable and affordable western wear for women. With a constantly updating inventory of casual, formal, and partywear ...",
+      tech_stacks:[
+        {
+        id: 1,
+        src: html,
+        title: "HTML",
+        style: "shadow-orange-500",
+      },
+      {
+        id: 2,
+        src: chakra,
+        title: "Chakra Ui",
+        style: "shadow-green-500",
+      },
+      {
+        id: 3,
+        src: javascript,
+        title: "JavaScript",
+        style: "shadow-yellow-500",
+      },
+      {
+        id: 4,
+        src: reactImage,
+        title: "React",
+        style: "shadow-blue-600",
+      },]
+    },
+    {
+      id: 7,
+      src:expedia,
+      title:"Expedia",
+      demo: "https://incomparable-gumption-64056d.netlify.app/",
+      code: "https://github.com/Mritunjay0001/Expedia-Clone",
+      desc:
+      "Choose From a Wide Range of Properties Which Expedia Offers. Search Now! Find What You Need At Expedia, The Biggest Travel Site In The World.",
       tech_stacks:[
         {
         id: 1,

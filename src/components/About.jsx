@@ -14,8 +14,8 @@ const About = () => {
           </p>
         </div>
 
-        <p className="mt-20 text-xs lg:text-xl md:text-lg sm:text-base">
-        Hello! My name is Santosh Yadav and I like to build websites/application
+        <p className="mt-20 text-xs lg:text-xl md:text-lg sm:text-base text-justify">
+        Hello! My name is Mritunjay Kumar and I like to build websites/application
         that serves the world and always want to enhance my knowledge & adpot
         new technologies that make impact on people. My interest in web
         development started when I joined Masai School to learn full stack
@@ -24,7 +24,7 @@ const About = () => {
 
         <br />
 
-        <p className="text-xs lg:text-xl md:text-lg sm:text-base">
+        <p className="text-xs lg:text-xl md:text-lg sm:text-base text-justify">
         Fast Forwarding to
         today, I built a number of web applications and major projects.
         Learned a great deal about teamwork, leadership, and communication.
